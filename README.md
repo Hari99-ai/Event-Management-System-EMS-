@@ -97,15 +97,6 @@ An end-to-end web application for booking and managing events. Built using **Fla
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Flask (Python)
-- **Database**: MySQL
-- **Templating**: Jinja2
-- **Email Integration**: Flask-Mail (optional)
-
----
 
 
 ## 📌 About the Author
